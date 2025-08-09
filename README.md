@@ -78,9 +78,6 @@ For the frontend (React):
     cd frontend
     npm start
     ```
-- Access the application:
-  
-  Open your browser and go to http://localhost:5173.
 
-## Demo
-The project is live at - https://blog-stream.onrender.com/
+
+
